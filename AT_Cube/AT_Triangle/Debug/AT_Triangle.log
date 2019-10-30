@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AT_Triangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see C:\Users\rebec\Documents\AT_Cube\AT_Cube\AT_Triangle\PixelShader.cso
+  compilation object save succeeded; see C:\Users\rebec\Documents\AT_Cube\AT_Cube\AT_Triangle\VertexShader.cso
+  App.cpp
+  dxerr.cpp
+  Exception.cpp
+  DxgiInfoManager.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Timer.cpp
+  Window.cpp
+  WindowsMessageMap.cpp
+  WinMain.cpp
+  AT_Triangle.vcxproj -> C:\Users\rebec\Documents\AT_Cube\AT_Cube\Debug\AT_Cube.exe
